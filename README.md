@@ -9,9 +9,9 @@ A discord Nuker Written In Python By Slinder . Just Like "Lithium Nuker" . Not A
 # Open Source Nuker 
 
 # NOTE
-- Don't Say This Is Skid Of Lithum Nuker . 
+- Don't Say This Is Skid Of "Lithum Nuker" . 
 - Lithium Nuker Is in CSharp 
-- Slinder in Python 
+- Slinder Nuker in Python 
 
 # Setup
 
@@ -19,7 +19,7 @@ A discord Nuker Written In Python By Slinder . Just Like "Lithium Nuker" . Not A
 - run "slinder.py"
 - Put Token In Input 
 - Put Server Id (Guild Id)
-- Use Only In Bot Not In Self Bot 
+- Use Only Bot token Not ~account token~
 
 # Important 
 - must Give Credits 
